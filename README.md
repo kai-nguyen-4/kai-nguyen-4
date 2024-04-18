@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 
-**kai-nguyen-4/kai-nguyen-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+- My name is Kai Nguyen
 - 🔭 I’m currently working on a space alien game
 - 🌱 I’m currently learning PHP, HTML, JS
 - 📫 How to reach me: kai.nguyen@mths.ca
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play competitive volleyball
+- ⚡ Fun fact: I play competitive volleyball and I play video games with my dad
 
 <h3 align="left">Languages and Tools <br />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a>
